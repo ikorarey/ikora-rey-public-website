@@ -7,7 +7,6 @@ sections:
 - type: document
   path: config.yml
   label: Site Settings
-  match: "**/*"
 - type: directory
   path: ''
   label: Files
