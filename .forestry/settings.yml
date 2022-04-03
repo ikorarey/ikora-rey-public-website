@@ -10,6 +10,11 @@ sections:
   create: all
   match: "**/*"
 - type: directory
+  path: data
+  label: Sections - English
+  create: all
+  match: "**/*"
+- type: directory
   path: content
   label: Pages
   create: all
@@ -27,7 +32,6 @@ sections:
 - type: document
   path: README.md
   label: README.md
-  match: "**/*"
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
