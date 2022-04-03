@@ -35,5 +35,8 @@ skills:
     to ensure predictable launch
 - name: Process Transformation
   logo: "/images/skills-logos/lightbulb.svg"
+  summary: Mapping current-state or as-is business processes, identifying opportunitites
+    to optimise, designing optmised to-be processes, and implementing and measuring
+    process improvements
 - name: Product Quality Assurance
   logo: "/images/skills-logos/square-check.svg"
