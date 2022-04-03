@@ -1,0 +1,72 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company: 
+    name: Director at Ikora Rey Pty Ltd
+    url: "https://www.ikorarey.com.au"
+    #location:
+    # company overview
+    overview: "Enable continuous improvement through in-depth analysis and redesign of existing end-to-end operating model including: ideation and business case development, budgeting and forecasting, prioritisation and decision-making, project planning and governance, and IT agile/waterfall hybrid project delivery model. Drive work streams that achieve effective and standardised practices across the organisation by analysing processes, determining improvement areas, implementing change, and measuring the success of the outcomes."
+  positions:
+  - designation: PMO Planning and Delivery Optimisation Consultant,  TPG Telecom
+    start: Sep 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - "Acknowledged for motivating and encouraging team to implement design thinking, test and learn practices and pragmatic problem-solving approaches, while mitigating restrictive barriers and adherence to pre-defined frameworks."
+    - "Delivered adaptive, sustainable methods to defining and measuring leading indicators for efficient analysis of operational alignment with strategic goals and objectives."
+    - "Progressed enterprise long-range plan, annual plan roadmap, and bottom-up-planning by contributing to invention of first post-merger initiative/investment decision/prioritisation framework and PMO processes as well as identifying, purchasing, and implementing enterprise tools, including Enterprise Atlassian suite: Jira Software and Jira Advanced Roadmaps, Jira Service Management, Confluence, and Atlassian Access to optimise planning and delivery of enterprise portfolio backlog."
+
+- company:
+    name: Director
+    url: "https://www.ikorarey.com.au"
+    # company overview
+    overview: "Lead and execute jobs-to-be-done analysis, customer requirements and skills analysis, and defined accessible services and operations to navigate new products and services to a niche market (Kangaroo Island skilled business community)."
+  positions:
+  - designation: Technology Coach, Ikora Rey Pty Ltd
+    start: Dec 2019
+    #end: Feb 2022
+    responsibilities:
+    - Achieved and maintained a strategic balance in productivity and demand by scaling daily processes, expanding team, and optimising overall performance and yield. 
+    - Renowned for accurately analysing requirements, document specifications, and implementing  sustainable technology-related transformations for business community on Kangaroo Island and regional South Australia, including developing public websites, creating graphic designs and user-experience, providing technical support related to software, hardware, and ITSM. 
+    - Enabled local teams to achieve business goals, including engaging more GPs to remote practice, improving tourist visitors to restaurants, and assisting businesses to restart activities after bushfires.
+
+- company:
+    name: Director at Ikora Rey Pty Ltd
+    url: "https://www.ikorarey.com.au"
+    # company overview
+    overview: "Supported readiness and adoption of core banking system migration by implementing upskilling Greater Bank team related to analysis, ideation techniques, facilitation techniques, and agile/lean constructs, including problem statements, epics, user stories, acceptance criteria, and problem resolutions."
+  positions:
+  - designation: Transformation Readiness Consultant and Senior Business Analyst, Greater Bank
+    start: Aug 2019
+    end: Feb 2022
+    responsibilities:
+    - Steered organisational effectiveness by defining, implementing, and optimising working practices, acceptance criteria, workflows, business processes, roles/responsibilities, and reporting to deliver migrated bank.
+    - Optimised end-to-end operations by providing efficient framework for bank migration, portfolio/program, and executive reporting, including live dashboards, service blueprints, and reporting snapshots.
+    - Validated designs/solutions adherence with bank requirements and prepared team to accomplish duties in post-migration phases, by proposing robust methods and devising pragmatic strategies. 
+    - Recognised for invention and implementation of an end-to-end cross-functional service design blueprinting, requirements gathering, and planning approach that mapped inter-related customer journeys, operational workflows and standard operating procedures, systems, policies, compliance and regulatory requirements to facilitate customer, operational, and business readiness for digital transformation and core bank data migration
+    - Delivered impeccable performance by diligently identifying and analysing risk factors and devising mitigation strategies by leveraging enterprise risk management policy to avoid issues in delivery and customer impact.
+
+- company:
+    name: OFX
+    url: "https://www.ofx.com.au"
+    overview: "Deployed and led efficient software engineering and business operations by steering results-driven transformation in delivery culture across OFX, product, architecture and engineering practices, and leadership."
+  positions:
+  - designation: Payments Product Owner and Process Optimisation Lead
+    start: June 2018
+    end: Dec 2019
+    responsibilities:
+    - Managed and owned the profitability of the end-to-end OFX payments technology capability including setting strategic direction, budgeting and forecasting, liaising with clients and vendors, conducting competitive analysis and market research, making investment prioritisation decisions and tradeoffs, and designing and driving delivery of an end-to-end payments technology service in support of OFX’ strategic pillars
+    - Conducted competitive analysis and market research into the global payments and foreign exchange landscape to identify opportunities for product differentiation, cost optimisation, and improved execution speed
+    - Devised and deployed impactful agile strategies for efficient and effective identification of opportunities, prioritisation of deliverables, and alignment of teams for OFX’s goals.
+    - Cultivated and fostered integrated relationships with operational business teams and introduced DevOps mindset within development teams to drive engineering excellence and executing effective change and release management processes.

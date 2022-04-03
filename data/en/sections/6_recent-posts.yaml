@@ -3,7 +3,7 @@ section:
   name: Recent Posts
   id: recent-posts
   enable: true
-  weight: 5
+  weight: 6
   showOnNavbar: true
   template: sections/recent-posts.html
   numShow: 1
