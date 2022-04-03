@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: fadmin
 webhook_url: 
 sections:
+- type: document
+  path: config.yml
+  label: Site Settings
+  match: "**/*"
 - type: directory
   path: ''
   label: Files
