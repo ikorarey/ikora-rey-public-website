@@ -1,27 +1,19 @@
-# section information
+---
 section:
-  name: Accomplishments
+  name: Education
   id: accomplishments
   enable: true
-  weight: 4
-  # Can optionally hide the title in sections
-  # hideTitle: true
-
-# Your accomplishments
+  weight: "4"
 accomplishments:
 - name: Masters of Business Administration
-  timeline: "August 2013"
+  timeline: August 2013
   organization:
     name: University of Tampa
     url: https://www.ut.edu
-  courseOverview: "Executive MBA"
-  #certificateURL: "https://example.com"
-
+  courseOverview: Executive MBA
 - name: Bachelor of Arts in Business Administration
-  timeline: "December 2006"
+  timeline: December 2006
   organization:
     name: University of South Florida
     url: https://www.usf.edu
-  courseOverview: "Management Information Systems"
-  #certificateURL: "https://example.com"
- 
+  courseOverview: Management Information Systems

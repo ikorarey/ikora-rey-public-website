@@ -40,11 +40,9 @@ sections:
 - type: document
   path: data/en/sections/3_experiences.yaml
   label: Experiences
-  match: "**/*"
 - type: document
   path: data/en/sections/4_accomplishments.yaml
   label: Education
-  match: "**/*"
 - type: document
   path: data/en/sections/6_recent-posts.yaml
   label: Recent Posts Section
