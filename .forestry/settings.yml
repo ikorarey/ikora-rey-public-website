@@ -11,7 +11,7 @@ sections:
   label: Files
   create: all
   match: "**/*"
-  exclude: themes/**/*
+  exclude: themes/*
 - type: directory
   path: content/posts
   label: Posts
@@ -29,7 +29,7 @@ sections:
 - type: directory
   path: data/en/sections
   label: Manage Home Page Sections
-  create: all
+  create: documents
   match: "**/*"
   new_doc_ext: yaml
 - type: document
