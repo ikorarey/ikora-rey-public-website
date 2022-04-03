@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: fadmin
 webhook_url: 
 sections:
+- type: heading
+  label: Files and Posts
 - type: directory
   path: ''
   label: Files
@@ -28,13 +30,17 @@ sections:
   label: Manage Home Page Sections
   create: all
   match: "**/*"
-  new_doc_ext: ".yaml"
-- type: document
-  path: data/en/sections/recent-posts.yaml
-  label: Recent Posts Section
+  new_doc_ext: yaml
 - type: document
   path: data/en/sections/about.yaml
   label: About Section
+- type: document
+  path: data/en/sections/skills.yaml
+  label: Skills Section
+  match: "**/*"
+- type: document
+  path: data/en/sections/recent-posts.yaml
+  label: Recent Posts Section
 - type: heading
   label: Website Settings
 - type: document
