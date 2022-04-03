@@ -32,13 +32,13 @@ sections:
   match: "**/*"
   new_doc_ext: yaml
 - type: document
-  path: data/en/sections/about.yaml
+  path: data/en/sections/1_about.yaml
   label: About Section
 - type: document
-  path: data/en/sections/skills.yaml
+  path: data/en/sections/1_skills.yaml
   label: Skills Section
 - type: document
-  path: data/en/sections/recent-posts.yaml
+  path: data/en/sections/6_recent-posts.yaml
   label: Recent Posts Section
 - type: heading
   label: Website Settings
