@@ -11,6 +11,7 @@ sections:
   label: Files
   create: all
   match: "**/*"
+  exclude: "/themes"
 - type: directory
   path: content/posts
   label: Posts
@@ -37,7 +38,6 @@ sections:
 - type: document
   path: data/en/sections/skills.yaml
   label: Skills Section
-  match: "**/*"
 - type: document
   path: data/en/sections/recent-posts.yaml
   label: Recent Posts Section
