@@ -35,7 +35,7 @@ sections:
   path: data/en/sections/1_about.yaml
   label: About Section
 - type: document
-  path: data/en/sections/1_skills.yaml
+  path: data/en/sections/2_skills.yaml
   label: Skills Section
 - type: document
   path: data/en/sections/6_recent-posts.yaml
