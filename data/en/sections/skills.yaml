@@ -7,17 +7,24 @@ section:
   showOnNavbar: true
 skills:
 - name: Product Development
-  icon: fas fa-gem
+  logo: /images/skills-logos/gem.svg
   summary: Full Product Lifecycle Product Analysis, Design, Planning, Delivery, and
     Measurement
 - name: Business Case Creation
-  icon: fas fa-gem
+  logo: /images/skills-logos/chart-bar.svg
   summary: Research, Draft, Present Business Cases including Use Cases, Financial
     Analysis, RFP, Go-To-Market Streategies, and KPIs
 - name: Operations Management
+  logo: /images/skills-logos/clipboard.svg
 - name: Project Planning and Reporting
+  logo: /images/skills-logos/font-awesome.svg
 - name: Change Readiness and Adoption
+  logo: /images/skills-logos/map.svg
 - name: Relationship and Rapport Building
+  logo: /images/skills-logos/face-grin-stars.svg
 - name: Cross-functional Project delivery
+  logo: /images/skills-logos/calendar-check.svg
 - name: Process Transformation
+  logo: /images/skills-logos/lightbulb.svg
 - name: Product Quality Assurance
+  logo: /images/skills-logos/square-check.svg
