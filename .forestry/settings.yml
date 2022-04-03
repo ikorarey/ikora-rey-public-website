@@ -22,13 +22,11 @@ sections:
 - type: heading
   label: English Site
 - type: document
-  path: data/en/sections/author.yaml
+  path: data/en/author.yaml
   label: Site Author
-  match: "**/*"
 - type: document
   path: data/en/site.yaml
   label: Site Settings
-  match: "**/*"
 - type: directory
   path: data/en/sections
   label: Site Sections
