@@ -1,34 +1,23 @@
-# section information
+---
 section:
   name: Skills
   id: skills
   enable: true
-  weight: 2
+  weight: "2"
   showOnNavbar: true
-  # Can optionally hide the title in sections
-  # hideTitle: true
-
-# Your Skills.
-# Give a summary of you each skill in the summary section.
 skills:
 - name: Product Development
   icon: fas fa-gem
-  summary: "Full Product Lifecycle Product Analysis, Design, Planning, Delivery, and Measurement"
-
+  summary: Full Product Lifecycle Product Analysis, Design, Planning, Delivery, and
+    Measurement
 - name: Business Case Creation
-  icon: fas fa-arrow-up-right-dots
-  summary: "Research, Draft, Present Business Cases including Use Cases, Financial Analysis, RFP, Go-To-Market Streategies, and KPIs"
-
+  icon: fa-thin fa-arrow-up-right-dots
+  summary: Research, Draft, Present Business Cases including Use Cases, Financial
+    Analysis, RFP, Go-To-Market Streategies, and KPIs
 - name: Operations Management
-
 - name: Project Planning and Reporting
-
 - name: Change Readiness and Adoption
-
 - name: Relationship and Rapport Building
-
 - name: Cross-functional Project delivery
-
 - name: Process Transformation
-
 - name: Product Quality Assurance
