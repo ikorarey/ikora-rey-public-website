@@ -21,20 +21,17 @@ sections:
   path: data/en/author.yaml
   label: Site Author
 - type: document
-  path: recent-posts
+  path: data/en/sections/recent-posts.yaml
   label: Recent Posts
-  match: "**/*"
 - type: document
   path: data/en/site.yaml
   label: Site Settings
 - type: document
   path: data/en/sections/about.yaml
   label: Skills
-  match: "**/*"
 - type: document
   path: data/en/sections/about.yaml
   label: About
-  match: "**/*"
 - type: directory
   path: data/en/sections
   label: Site Sections
