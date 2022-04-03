@@ -1,0 +1,18 @@
+# some information about you
+name: "Ikora Rey"
+nickname: "Ikora"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+
+image: "/images/IkoraAvatar.gif"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "ikora@ikorarey.com.au"
+
+# some summary about what you do
+summary:
+  - I am a strategic leader
+  - I am a technology specialist
+  - I am an out-of-box problem solver 
+  - I am an entrepreneur
+  - I am open to new work

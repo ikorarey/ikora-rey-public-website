@@ -1,0 +1,48 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Tech-Savvy Business Leader
+# your company information
+company:
+  name: Ikora Rey Pty Ltd
+  url: "https://www.ikorarey.com.au"
+
+# a summary about you
+summary: 'Meticulous, success-focused, and technically astute professional with extensive experience in leading cross-functional teams, planning and overseeing product development  and delivery operations, and executing robust go-to-market strategies.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/ikorarey/ikora-rey-public-website"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 90
+  color: sky
+- name: Product Management
+  percentage: 80
+  color: blue
+- name: Agile Project Management
+  percentage: 90
+  color: green
+- name: Business Analysis
+  percentage: 85
+  color: sky
+- name: Quality Engineering and Quality Assurance
+  percentage: 90
+  color: blue
+- name: Technical Details
+  percentage: 80
+  color: green

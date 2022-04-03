@@ -1,0 +1,44 @@
+baseURL: "https://ikorarey.com.au/"
+title: Ikora Rey
+theme: toha
+languageCode: en-us
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+
+enableEmoji: true
+
+outputs:
+  home:
+    - HTML
+    - JSON
+
+# Control TOC depth
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+params:
+  gitRepo: https://github.com/ikorarey/ikora-rey-public-website
+  enableTOC: true
+  background: "/images/background-black-desk.png"
+
+# The inverted logo will be used in the initial transparent navbar and
+# the main logo will be used in the non-transparent navbar.
+  logo:
+    main: images/main-logo.png
+    inverted: images/ikora-rey-logo-whitecircle.png
+    favicon: images/ikora-rey-logo-whitecircle.png
+  blog:
+    enable: true
+    shareButtons: 
+      linkedin: true
+      reddit: true
+      email: true
+      pocket: true
+      diaspora: true
+      mastodon: true
