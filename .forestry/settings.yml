@@ -28,9 +28,6 @@ sections:
   label: Site Settings
 - type: document
   path: data/en/sections/about.yaml
-  label: Skills
-- type: document
-  path: data/en/sections/about.yaml
   label: About
 - type: directory
   path: data/en/sections
