@@ -4,9 +4,6 @@ auto_deploy: false
 admin_path: fadmin
 webhook_url: 
 sections:
-- type: document
-  path: config.yml
-  label: Site Settings
 - type: directory
   path: ''
   label: Files
@@ -22,6 +19,11 @@ sections:
   label: Posts
   create: all
   match: "**/*"
+- type: heading
+  label: Site Settings
+- type: document
+  path: config.yml
+  label: Config
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
