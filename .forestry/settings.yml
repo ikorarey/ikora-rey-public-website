@@ -11,7 +11,7 @@ sections:
   label: Files
   create: all
   match: "**/*"
-  exclude: "/themes"
+  exclude: "/themes**/*"
 - type: directory
   path: content/posts
   label: Posts
