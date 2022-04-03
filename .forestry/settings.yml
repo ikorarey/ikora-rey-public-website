@@ -10,11 +10,6 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: data/en
-  label: Sections - English
-  create: all
-  match: "**/*"
-- type: directory
   path: content
   label: Pages
   create: all
@@ -22,6 +17,13 @@ sections:
 - type: directory
   path: content/posts
   label: Posts
+  create: all
+  match: "**/*"
+- type: heading
+  label: English Site
+- type: directory
+  path: data/en/sections
+  label: Site Sections
   create: all
   match: "**/*"
 - type: heading
