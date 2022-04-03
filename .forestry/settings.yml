@@ -21,6 +21,10 @@ sections:
   path: data/en/author.yaml
   label: Site Author
 - type: document
+  path: recent-posts
+  label: Recent Posts
+  match: "**/*"
+- type: document
   path: data/en/site.yaml
   label: Site Settings
 - type: document
