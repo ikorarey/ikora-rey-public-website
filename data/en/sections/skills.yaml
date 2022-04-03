@@ -11,7 +11,7 @@ skills:
   summary: Full Product Lifecycle Product Analysis, Design, Planning, Delivery, and
     Measurement
 - name: Business Case Creation
-  icon: fas fa-arrow-up-right-dots
+  icon: fa-thin arrow-up-right-dots
   summary: Research, Draft, Present Business Cases including Use Cases, Financial
     Analysis, RFP, Go-To-Market Streategies, and KPIs
 - name: Operations Management
