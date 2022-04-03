@@ -8,8 +8,7 @@ section:
 skills:
 - name: Product Development
   logo: "/images/skills-logos/gem.svg"
-  summary: Full Product Lifecycle Product Analysis, Design, Planning, Delivery, and
-    Measurement
+  summary: Full Product Lifecycle Analysis, Design, Planning, Delivery, and Measurement
 - name: Business Case Creation
   logo: "/images/skills-logos/chart-bar.svg"
   summary: Research, Draft, Present Business Cases including Use Cases, Financial
