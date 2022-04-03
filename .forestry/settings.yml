@@ -21,24 +21,25 @@ sections:
   path: data/en/author.yaml
   label: Site Author
 - type: document
-  path: data/en/sections/recent-posts.yaml
-  label: Recent Posts
-- type: document
   path: data/en/site.yaml
   label: Site Settings
-- type: document
-  path: data/en/sections/about.yaml
-  label: About
 - type: directory
   path: data/en/sections
-  label: Site Sections
+  label: Manage Home Page Sections
   create: all
   match: "**/*"
+  new_doc_ext: ".yaml"
+- type: document
+  path: data/en/sections/recent-posts.yaml
+  label: Recent Posts Section
+- type: document
+  path: data/en/sections/about.yaml
+  label: About Section
 - type: heading
-  label: Site Settings
+  label: Website Settings
 - type: document
   path: config.yml
-  label: Config
+  label: Website configuration
 - type: document
   path: README.md
   label: README.md
