@@ -2,8 +2,8 @@
 section:
   name: Recent Posts
   id: recent-posts
-  enable: true
+  enable: false
   weight: 6
-  showOnNavbar: true
+  showOnNavbar: false
   template: sections/recent-posts.html
   numShow: 1
